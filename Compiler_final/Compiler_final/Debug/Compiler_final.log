@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\kyi42\documents\visual studio 2015\projects\compiler_final\compiler_final\main.c(31): warning C4101: 'first_result' :참조되지 않은 지역 변수입니다.
+c:\users\kyi42\documents\visual studio 2015\projects\compiler_final\compiler_final\main.c(32): warning C4101: 'follow_result' :참조되지 않은 지역 변수입니다.
+c:\users\kyi42\documents\visual studio 2015\projects\compiler_final\compiler_final\main.c(257): warning C4101: 'nont_check' :참조되지 않은 지역 변수입니다.
+  Compiler_final.vcxproj -> C:\Users\kyi42\documents\visual studio 2015\Projects\Compiler_final\Debug\Compiler_final.exe
+  Compiler_final.vcxproj -> C:\Users\kyi42\documents\visual studio 2015\Projects\Compiler_final\Debug\Compiler_final.pdb (Partial PDB)
